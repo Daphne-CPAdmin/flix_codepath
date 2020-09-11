@@ -57,7 +57,7 @@ Describe any challenges encountered while building the app.
 
 #### BONUS
 - [x] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
-- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer. (Done partially :/)
 
 ### App Walkthrough GIF
 (required part):
@@ -70,3 +70,4 @@ Describe any challenges encountered while building the app.
 
 ### Notes
 Describe any challenges encountered while building the app.
+- The second bonus about presenting modally is pretty challenging. I need to go over the doc again, and see what I have been missing. Also, some parts have been deprecated, but I can see the trace of the updated things, and I was trying my best to guess the best solution.
