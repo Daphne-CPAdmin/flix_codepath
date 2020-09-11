@@ -60,11 +60,11 @@ Describe any challenges encountered while building the app.
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-(required part)
+(required part):
 
 <img src="https://res.cloudinary.com/headincloud/image/upload/v1599804754/flix_week2_required_k1crck.gif" width=250><br>
 
-(bonus part)
+(first bonus part):
 
 <img src="https://res.cloudinary.com/headincloud/image/upload/v1599804876/flix_week2_bonus_pndmfm.gif" width=250><br>
 
