@@ -71,3 +71,4 @@ Describe any challenges encountered while building the app.
 ### Notes
 Describe any challenges encountered while building the app.
 - The second bonus about presenting modally is pretty challenging. I need to go over the doc again, and see what I have been missing. Also, some parts have been deprecated, but I can see the trace of the updated things, and I was trying my best to guess the best solution.
+- I tried to add tap gesture to the view controller,and then, also to the posterView, but neither of them would work.
