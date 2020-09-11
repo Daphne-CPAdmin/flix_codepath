@@ -61,9 +61,11 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthrough GIF
 (required part)
+
 <img src="https://res.cloudinary.com/headincloud/image/upload/v1599804754/flix_week2_required_k1crck.gif" width=250><br>
 
 (bonus part)
+
 <img src="https://res.cloudinary.com/headincloud/image/upload/v1599804876/flix_week2_bonus_pndmfm.gif" width=250><br>
 
 ### Notes
