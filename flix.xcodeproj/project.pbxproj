@@ -13,6 +13,7 @@
 		B1D45FC3250B172B00AB81C3 /* MovieGridViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D45FC2250B172B00AB81C3 /* MovieGridViewController.swift */; };
 		B1D45FC5250B1DB100AB81C3 /* MovieGridCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D45FC4250B1DB100AB81C3 /* MovieGridCell.swift */; };
 		B1D45FC7250B463200AB81C3 /* SuperheroDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D45FC6250B463200AB81C3 /* SuperheroDetailsViewController.swift */; };
+		B1D45FC9250B511E00AB81C3 /* VideoTrailerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1D45FC8250B511E00AB81C3 /* VideoTrailerViewController.swift */; };
 		B1DA9571250198CA0074A904 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DA9570250198CA0074A904 /* AppDelegate.swift */; };
 		B1DA9573250198CA0074A904 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1DA9572250198CA0074A904 /* SceneDelegate.swift */; };
 		B1DA9578250198CA0074A904 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1DA9576250198CA0074A904 /* Main.storyboard */; };
@@ -53,6 +54,7 @@
 		B1D45FC2250B172B00AB81C3 /* MovieGridViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridViewController.swift; sourceTree = "<group>"; };
 		B1D45FC4250B1DB100AB81C3 /* MovieGridCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridCell.swift; sourceTree = "<group>"; };
 		B1D45FC6250B463200AB81C3 /* SuperheroDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperheroDetailsViewController.swift; sourceTree = "<group>"; };
+		B1D45FC8250B511E00AB81C3 /* VideoTrailerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoTrailerViewController.swift; sourceTree = "<group>"; };
 		B1DA956D250198CA0074A904 /* flix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = flix.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1DA9570250198CA0074A904 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B1DA9572250198CA0074A904 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -151,6 +153,7 @@
 				B1D45FC2250B172B00AB81C3 /* MovieGridViewController.swift */,
 				B1D45FC4250B1DB100AB81C3 /* MovieGridCell.swift */,
 				B1D45FC6250B463200AB81C3 /* SuperheroDetailsViewController.swift */,
+				B1D45FC8250B511E00AB81C3 /* VideoTrailerViewController.swift */,
 			);
 			path = flix;
 			sourceTree = "<group>";
@@ -429,6 +432,7 @@
 				B1DA95A32501D93B0074A904 /* MovieCell.swift in Sources */,
 				B1DA95A125019A9E0074A904 /* MoviesViewController.swift in Sources */,
 				B1D45FC3250B172B00AB81C3 /* MovieGridViewController.swift in Sources */,
+				B1D45FC9250B511E00AB81C3 /* VideoTrailerViewController.swift in Sources */,
 				B1D45FC5250B1DB100AB81C3 /* MovieGridCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
